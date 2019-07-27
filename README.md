@@ -5,7 +5,11 @@
 export MEETUP_API=<key>
 ```
 
-### Install dependencies?
+### Install dependencies
+```
+# Note: this is case sensitive. rmeetup is a different gem
+gem install rMeetup
+```
 
 ### Run script
 ```
